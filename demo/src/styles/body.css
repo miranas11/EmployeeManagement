@@ -1,0 +1,18 @@
+#root {
+    height: 100%;
+}
+
+.app {
+    height: 100%;
+}
+
+.main {
+    /* border: 10px solid pink; */
+    height: 100%;
+}
+
+.body {
+    /* border: 1px solid red; */
+    display: flex;
+    height: 100%;
+}

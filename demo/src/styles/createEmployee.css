@@ -1,0 +1,55 @@
+.create {
+    width: 100vw;
+    padding: 1rem;
+    font-size: 1.5em;
+}
+
+.create__employee-form {
+    display: flex;
+    padding: 1.5rem;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #ffffff;
+    gap: 1rem;
+}
+
+.create__employee-form label {
+    margin: 0.1rem 0;
+    padding: 1rem;
+}
+
+.create__employee-form label input {
+    padding: 0.1em 0.4em;
+    margin: 0.1em;
+}
+
+.create__address {
+    width: 100%;
+    flex-basis: 100%;
+}
+
+.create__address textarea {
+    width: 100%;
+}
+
+.create__skills {
+    flex-basis: 100%;
+}
+
+.create__checkbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.create__checkbox label {
+    margin: 0.3rem 5rem;
+}
+
+.create__btn {
+    background-color: #00a65a;
+    color: white;
+
+    border-radius: 4px;
+    margin-right: 1rem;
+}

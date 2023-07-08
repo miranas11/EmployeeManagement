@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: #3c8dbc;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.header__logo {
+    background-color: #367fa9;
+    padding: 1.8rem 5rem;
+    border: 1px solid red;
+}
+
+.header__logout-btn {
+    padding: 1.8rem 5rem;
+    background-color: transparent;
+    color: white;
+}
